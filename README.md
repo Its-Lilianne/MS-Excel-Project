@@ -3,7 +3,7 @@
 In this project, we’ll be working with a messy dataset that simulates real-world data problems. Your job is to clean and organise the data using Microsoft Excel so it’s ready for analysis. 
 Below is the picture of the messy dataset.
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/e34620efe2f16bd7d14ecd76c1ad6ead4c5c0b30/Messy_Dataset.png)
 
 
 ## Project Overview
