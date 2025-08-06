@@ -27,3 +27,4 @@ Key Cleaning Tasks Performed
 1. Autofit Columns and Rows: - This data cleaning is recommended for data visibility in Excel. 
 2. Removed Duplicate Records — Ensured all rows are unique
 
+![image alt]()
