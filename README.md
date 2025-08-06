@@ -40,7 +40,7 @@ Key Cleaning Tasks Performed
 5. Converted 'Price Per Unit' to Numeric — Replaced 'inf' and invalid values. 
 6. Corrected Spelling Errors — Fixed misspellings like 'Excelent' to 'Excellent' by using the “REPLACE()” function 
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/162e5a98f196e1db3dd2fb8ccf28786bae82c40b/Replace%20Function_Dataset.png)
 
 7. Validated Data — Checked and cleaned all fields for consistency and accuracy, and finally converted the data into a table by going to the “INSERT” tab, which is after highlighting the spreadsheet or columns. And also added a column titled “Total” by multiplying the Quantity and Price Per Unit columns
 
