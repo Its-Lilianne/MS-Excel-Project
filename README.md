@@ -29,7 +29,7 @@ Key Cleaning Tasks Performed
 
 ![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/0d41be1bd88a6a4c04aa5c844425cbac8eb3001a/Cleaned_Dataset.png)
 
-3. Trimmed Extra Spaces — Stripped unnecessary spaces from text entries. To perform this task, I used the MS-Excel “TRIM Function” to trim out the noticeable multiple spaces between names on the “Name Column”; column “C” specifically. To achieve this, I inserted a new column and had to use the “Hide” button to hide the Dirty column after the correction.
+3. Trimmed Extra Spaces — Stripped unnecessary spaces from text entries. To perform this task, I used the MS-Excel “TRIM Function” to trim out the noticeable multiple spaces between names on the “Name Column”, column “C” specifically. To achieve this, I inserted a new column and had to use the “Hide” button to hide the Dirty column after the correction.
 
 ![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/eb8167f7c7ee02f424a8fa0d88bc679175d97dad/Trimmed_Dataset.png)
 
@@ -47,4 +47,4 @@ Key Cleaning Tasks Performed
 ![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/fb3f83d3c7c5eeb89b1c8ccf37c67737dc13a8f9/Total%20Sum_Dataset.png)
 
 ## MS-Excel_Cleaned Dataset: 
-The link below provides access to the cleaned Excel dataset.
+[The link below provides access to the cleaned Excel dataset](https://docs.google.com/spreadsheets/d/1XA16OIdstDgFrCAB384_KMg1PoiYGB4S/edit?usp=drive_link&ouid=107686833480698647313&rtpof=true&sd=true)
