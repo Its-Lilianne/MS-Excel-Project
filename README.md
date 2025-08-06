@@ -9,7 +9,7 @@ Below is the picture of the messy dataset.
 
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
-- [Objective](#objectives)
+- [Objective](#objective)
 - [Report Outline](#report-outline)
 - [MS-Excel_Cleaned Dataset](#ms-excel_cleaned dataset)
 
