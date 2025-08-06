@@ -44,7 +44,7 @@ Key Cleaning Tasks Performed
 
 7. Validated Data — Checked and cleaned all fields for consistency and accuracy, and finally converted the data into a table by going to the “INSERT” tab, which is after highlighting the spreadsheet or columns. And also added a column titled “Total” by multiplying the Quantity and Price Per Unit columns
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/fb3f83d3c7c5eeb89b1c8ccf37c67737dc13a8f9/Total%20Sum_Dataset.png)
 
 ## MS-Excel_Cleaned Dataset: 
 The link below provides access to the cleaned Excel dataset.
