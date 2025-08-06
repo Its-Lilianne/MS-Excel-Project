@@ -11,7 +11,8 @@ Below is the picture of the messy dataset.
 - [Project Overview](#project-overview)
 - [Objective](#objective)
 - [Report Outline](#report-outline)
-- [MS-Excel_Cleaned Dataset](#ms-excel_cleaned dataset)
+- [MS Excel Cleaned Dataset](#ms-excel-cleaned-dataset)
+
 
 
 ## Project Overview
@@ -54,5 +55,5 @@ Key Cleaning Tasks Performed
 
 ![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/fb3f83d3c7c5eeb89b1c8ccf37c67737dc13a8f9/Total%20Sum_Dataset.png)
 
-## MS-Excel_Cleaned Dataset: 
+## MS Excel Cleaned Dataset: 
 [The link below provides access to the cleaned Excel dataset](https://docs.google.com/spreadsheets/d/1VixZ-pVDZP1_I0Zl7ZTsEkbo97Oj24Yr/edit?usp=drive_link&ouid=107686833480698647313&rtpof=true&sd=true)
