@@ -5,6 +5,14 @@ Below is the picture of the messy dataset.
 
 ![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/e34620efe2f16bd7d14ecd76c1ad6ead4c5c0b30/Messy_Dataset.png)
 
+### Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Objective](#objectives)
+- [Report Outline](#report-outline)
+- [MS-Excel_Cleaned Dataset](#ms-excel_cleaned dataset)
+
 
 ## Project Overview
 This project presents a comprehensive Microsoft Excel report that contains everything I did to come up with the solution for a messy dataset. It outlines the data cleaning steps performed on the 'Excel_DirtyData.xlsx' file. It also outlines deep cleaning, autofitting of the rows and the columns, using the Replace function to correct misspellings, trim extra spaces, and convert the data into a table.
@@ -12,7 +20,7 @@ This project presents a comprehensive Microsoft Excel report that contains every
 ![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/0d41be1bd88a6a4c04aa5c844425cbac8eb3001a/Cleaned_Dataset.png)
 
 
-## Objectives
+## Objective
 The goal was to clean and prepare the data for analysis using Microsoft Excel techniques, as described in the project brief, as listed below:
 1. Autofit Columns and Rows. 
 2. Identify and Remove Duplicates. 
