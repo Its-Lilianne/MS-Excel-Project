@@ -9,7 +9,7 @@ Below is the picture of the messy dataset.
 ## Project Overview
 This project presents a comprehensive Microsoft Excel report that contains everything I did to come up with the solution for a messy dataset. It outlines the data cleaning steps performed on the 'Excel_DirtyData.xlsx' file. It also outlines deep cleaning, autofitting of the rows and the columns, using the Replace function to correct misspellings, trim extra spaces, and convert the data into a table.
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/0d41be1bd88a6a4c04aa5c844425cbac8eb3001a/Cleaned_Dataset.png)
 
 
 ## Objectives
