@@ -31,7 +31,7 @@ Key Cleaning Tasks Performed
 
 3. Trimmed Extra Spaces — Stripped unnecessary spaces from text entries. To perform this task, I used the MS-Excel “TRIM Function” to trim out the noticeable multiple spaces between names on the “Name Column”; column “C” specifically. To achieve this, I inserted a new column and had to use the “Hide” button to hide the Dirty column after the correction.
 
-![image alt]()
+![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/eb8167f7c7ee02f424a8fa0d88bc679175d97dad/Trimmed_Dataset.png)
 
 4. Eliminated Blank Cells — Dropped all rows with missing values aside from the name “Bruce Banner”. Bruce Banner’s region was not stated, so I assumed it was omitted. Instead of elimination, which would affect other columns like Quality and Price Per Unit, I tagged the cell as “Unknown” by using the “Custom” category in the Format Cells on the Home Tab.  
 
