@@ -35,7 +35,7 @@ Key Cleaning Tasks Performed
 
 4. Eliminated Blank Cells — Dropped all rows with missing values aside from the name “Bruce Banner”. Bruce Banner’s region was not stated, so I assumed it was omitted. Instead of elimination, which would affect other columns like Quality and Price Per Unit, I tagged the cell as “Unknown” by using the “Custom” category in the Format Cells on the Home Tab.  
 
-![image alt]() 
+![image alt](https://github.com/Its-Lilianne/MS-Excel-Project/blob/571fc4f74880693ce72c294d8e4aa75ce10c56ae/Blank%20Cell_Dataset.png) 
 
 5. Converted 'Price Per Unit' to Numeric — Replaced 'inf' and invalid values. 
 6. Corrected Spelling Errors — Fixed misspellings like 'Excelent' to 'Excellent' by using the “REPLACE()” function 
